@@ -1,7 +1,8 @@
+
 # 🛡️ CREED Protocol (Cyber-Reliability Electronic Evaluation Data)
 
 **Developed & Owned by:** Jakob Rova (alias napsteer87)
-**Identity:** 19870116-8257 (Swedish Citizen)
+**Identity:** 19870116-xxxc (Swedish Citizen)
 **Organization:** Strömsunds Optikern (F-skatt)
 **Brand Identity:** RovaNapster / Rowa
 
