@@ -1,0 +1,8 @@
+# Koppla lokalt repo till GitHub (ersätt med din faktiska URL om den skiljer sig)
+git remote add origin https://github.com/rowan-python/creed-validation.git
+
+# Byt namn på huvudgrenen till main
+git branch -M main
+
+# PUSHA!
+git push -u origin main
