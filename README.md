@@ -32,4 +32,4 @@ Originality verified at Östringen 5, 833 35 Strömsund, Sweden.
 
 ---
 **Official Source URL:** `https://github.com/RovaNapster/Creed`
-**Contact:** isabellevik@icloud.com (Operator)
+**Contact:** rOVA jACOB  (Operator)
